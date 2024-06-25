@@ -1,14 +1,5 @@
-Papas
-Lechuga
-Tomate
-Queso
-Fideos
-Aceite
-Pollo
-Pan
-Austral Calafate
-Carne
-Longaniza
-Pulpa Cerdo
-
+Lista compras farmacia 
+Algodon
+Povidona
+Paracetamol
 
