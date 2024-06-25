@@ -1,14 +1,11 @@
-Papas
-Lechuga
-Tomate
-Queso
-Fideos
-Aceite
-Pollo
-Pan
-Austral Calafate
-Carne
-Longaniza
-Pulpa Cerdo
+queso
+salame
+tomate
+cebolla
+choclo
+aceituna
+pimenton
+pollo
+champiñon
 
 
