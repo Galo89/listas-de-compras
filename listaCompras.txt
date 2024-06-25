@@ -1,6 +1,35 @@
-choritos
-chorizo
+<<<<<<< HEAD
+<<<<<<< HEAD
+Vino tinto
+2 Naranja
+3 Ramas de canela entera
+4 Clavos de olor
+Azucar
+Papas
+Lechuga
+Tomate
+Queso
+Fideos
+Aceite
 Pollo
 almejas
 vino blanco
+=======
+Lista compras farmacia 
+Algodon
+Povidona
+Paracetamol
+>>>>>>> 9d78347adf66d943e53cf4ba7b976fda666effbd
+=======
+queso
+salame
+tomate
+cebolla
+choclo
+aceituna
+pimenton
+pollo
+champiñon
+
+>>>>>>> fdde81495e857c69eb19638eb7e761ae3108c1a4
 
