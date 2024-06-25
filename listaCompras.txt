@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Vino tinto
 2 Naranja
 3 Ramas de canela entera
@@ -19,4 +20,16 @@ Algodon
 Povidona
 Paracetamol
 >>>>>>> 9d78347adf66d943e53cf4ba7b976fda666effbd
+=======
+queso
+salame
+tomate
+cebolla
+choclo
+aceituna
+pimenton
+pollo
+champiñon
+
+>>>>>>> fdde81495e857c69eb19638eb7e761ae3108c1a4
 
